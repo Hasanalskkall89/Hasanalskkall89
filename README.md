@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
-I'm Hasan, a **Full-Stack Developer** and **Blockchain Specialist** passionate about creating innovative and scalable solutions. My work spans a variety of fields, including web development, decentralized applications (DApps), and smart contract programming.
+I'm Hasan, a **Full-Stack Developer** and **Blockchain Specialist** passionate about creating innovative and scalable solutions. My work spans web development, decentralized applications (DApps), smart contract programming, and blockchain infrastructure.
 
 ---
 
@@ -29,18 +29,18 @@ I'm Hasan, a **Full-Stack Developer** and **Blockchain Specialist** passionate a
 - **Decentralized Applications (DApps)**: Wallet integrations, token swaps, and gaming platforms  
 
 ### Additional Skills
-- **Tools**: Docker, Git, VS Code, REST APIs  
+- **DevOps & Infrastructure**: CI/CD pipelines (GitHub Actions), Docker & Docker Compose, VPS/Server management, Nginx configuration
+- **Version Control**: Advanced Git workflows, GitHub Actions, repository management
+- **Tools**: PostgreSQL administration, REST APIs, Cloudflare CDN
 - **Collaboration**: Agile methodologies, cross-functional team collaboration  
 
 ---
 
 ## 📂 **Projects**
 
-### Featured Projects
-- **Comprehensive Blockchain Ecosystem**: A system that includes a DEX aggregator, fee management smart contracts, and tools for decentralized integration.  
-- **Decentralized Game**: Blockchain-based game utilizing Web3.js for seamless interactions with smart contracts.  
-- **IPFS Desktop App**: A file upload/download manager leveraging IPFS for decentralized storage.  
-- **Professional Blog Website**: A Next.js-powered platform for sharing programming tutorials and insights.  
+**Currently Building:**
+- **Blockchain Game**: Developing a fully decentralized gaming platform with Web3.js smart contract interactions and on-chain gameplay mechanics
+- **Blockchain Nodes Infrastructure**: Running and optimizing nodes for multiple networks (Ethereum, Solana, Arbitrum, Optimism, Base) with production-grade RPC services
 
 Explore more in my repositories for detailed project descriptions!
 
