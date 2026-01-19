@@ -9,7 +9,6 @@ I'm Hasan, a **Full-Stack Developer** and **Blockchain Specialist** passionate a
 - 🧑‍💻 **Full-Stack Development**: Proficient in building robust and user-friendly web applications using modern JavaScript frameworks and backend technologies.  
 - 🔐 **Blockchain Development**: Specialized in writing smart contracts, developing decentralized applications (DApps), and creating decentralized games.  
 - 🌟 **Tech Explorer**: Always learning new tools, frameworks, and technologies to stay ahead in the tech world.  
-- 🌱 **Currently Working On**: Building a **DEX Aggregator** as part of a comprehensive blockchain ecosystem, focusing on optimizing token swaps, fee management, and advanced integrations with decentralized technologies.  
 - 🎯 **Goal-Oriented**: Committed to delivering efficient and scalable solutions for real-world challenges.  
 
 ---
